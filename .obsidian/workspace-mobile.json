@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "a273a9e1c892615a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dda96b6a5e883038",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18d5028227967518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/0002-Lua语言基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40dfcdf15a42e69b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "54e19a67fdcefdb3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ab1424cf68e6b91a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "809fe7e0069745b3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5963622de9ed6a6f",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9773bad6979f01b6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "de53f28b671f20e2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "src/0002-Lua语言基础.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4315189db3c90941",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "src/0002-Lua语言基础.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "42512188b5fb0c64",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "src/0002-Lua语言基础.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "18d5028227967518",
+  "lastOpenFiles": [
+    "src/0001-Lua环境搭建.md",
+    "src/0002-Lua语言基础.md"
+  ]
+}

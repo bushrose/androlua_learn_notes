@@ -1,3 +1,3 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Chapter 1](0001-Lua环境搭建.md)

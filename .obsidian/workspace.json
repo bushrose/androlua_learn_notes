@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "791f79b955d66b80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/Andlua+实现WakeUpOnline远程开机.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/0002-Lua语言基础.md",
+                "file": "src/Andlua+实现WakeUpOnline远程开机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/0002-Lua语言基础.md",
+                "file": "src/Andlua+实现WakeUpOnline远程开机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/0002-Lua语言基础.md"
+                "file": "src/Andlua+实现WakeUpOnline远程开机.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d997eb1dd738fb49",
+  "active": "791f79b955d66b80",
   "lastOpenFiles": [
+    "src/0002-Lua语言基础.md",
     "src/0001-Lua环境搭建.md"
   ]
 }

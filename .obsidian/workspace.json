@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "7db25db1b9519b2e",
+        "id": "099d304df2438052",
         "type": "tabs",
         "children": [
           {
-            "id": "d997eb1dd738fb49",
+            "id": "ebbd7fdb5cfcd111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/0002-Lua语言基础.md",
+                "file": "src/SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "791f79b955d66b80",
+            "id": "04fa7c2c74c32af1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Andlua+实现WakeUpOnline远程开机.md",
+                "file": "src/小白也能做应用（一）之fusion app介绍.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "30aef76f7da9f554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6368cd3001701b7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/小白也能做应用（一）之fusion app介绍.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Andlua+实现WakeUpOnline远程开机.md",
+                "file": "src/小白也能做应用（一）之fusion app介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Andlua+实现WakeUpOnline远程开机.md",
+                "file": "src/小白也能做应用（一）之fusion app介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Andlua+实现WakeUpOnline远程开机.md"
+                "file": "src/小白也能做应用（一）之fusion app介绍.md"
               }
             }
           }
@@ -159,9 +177,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "791f79b955d66b80",
+  "active": "6368cd3001701b7e",
   "lastOpenFiles": [
+    "src/SUMMARY.md",
+    "src/小白也能做应用（一）之fusion app介绍.md",
+    "src/0001-Lua环境搭建.md",
     "src/0002-Lua语言基础.md",
-    "src/0001-Lua环境搭建.md"
+    "src/Andlua+实现WakeUpOnline远程开机.md"
   ]
 }

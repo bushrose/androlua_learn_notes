@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/0002-Lua语言基础.md",
+                "file": "src/小白也能做应用（二）之fusion app加入B站页面.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "src/0002-Lua语言基础.md",
+            "file": "src/小白也能做应用（二）之fusion app加入B站页面.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "src/0002-Lua语言基础.md",
+            "file": "src/小白也能做应用（二）之fusion app加入B站页面.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "src/0002-Lua语言基础.md"
+            "file": "src/小白也能做应用（二）之fusion app加入B站页面.md"
           }
         }
       }
@@ -123,7 +123,9 @@
   },
   "active": "18d5028227967518",
   "lastOpenFiles": [
-    "src/0001-Lua环境搭建.md",
-    "src/0002-Lua语言基础.md"
+    "src/小白也能做应用（一）之fusion app介绍.md",
+    "src/小白也能做应用（一）-fusion app界面介绍.md",
+    "src/0002-Lua语言基础.md",
+    "src/0001-Lua环境搭建.md"
   ]
 }

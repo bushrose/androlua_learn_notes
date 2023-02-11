@@ -10,7 +10,7 @@ if(网页链接:find"url/.")then
 end
 ```
 
---加载本地网页
+### 加载本地网页
 ```lua
 加载本地网页("file:///android_asset/drawable/index.html")
 ```
@@ -146,7 +146,7 @@ end
 ```
 
 
-## 多页面搜索
+### 多页面搜索
 ```lua
 -- By: QQ3
 local urls={"https://www.google.com/search?q=%s","https://m.baidu.com/s?wd=%s","https://m.so.com/s?q=%s","http://cn.bing.com/search?q=%s","http://m.chinaso.com/page/search.htm?keys=%s","https://m.sogou.com/web/searchList.jsp?keyword=%s","https://m.sm.cn/s?q=%s"}

@@ -4,50 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "099d304df2438052",
+        "id": "5c8cd161a56a3d8c",
         "type": "tabs",
         "children": [
           {
-            "id": "ebbd7fdb5cfcd111",
+            "id": "c401b95254ae9826",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/SUMMARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04fa7c2c74c32af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/小白也能做应用（一）之fusion app介绍.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "30aef76f7da9f554",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6368cd3001701b7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/小白也能做应用（一）之fusion app介绍.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -116,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/小白也能做应用（一）之fusion app介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/小白也能做应用（一）之fusion app介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,17 +118,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/小白也能做应用（一）之fusion app介绍.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +137,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "04fa7c2c74c32af1",
+  "active": "c401b95254ae9826",
   "lastOpenFiles": [
     "src/SUMMARY.md",
     "src/小白也能做应用（一）之fusion app介绍.md",
